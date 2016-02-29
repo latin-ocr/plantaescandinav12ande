@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./plantaescandinav12ande_0100.png"; bbox 0 0 1872 3141; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1336 0 2958">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1336 0 2958">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1336 0 2958"><span class='ocrx_word' id='word_1_1' title='bbox 0 1336 0 2958; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1329 0 1609">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 1329 0 1609">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 1329 0 1609"><span class='ocrx_word' id='word_1_2' title='bbox 0 1329 0 1609; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 442 1500 1560 1549">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 442 1500 1560 1549">
+     <span class='ocr_line' id='line_1_3' title="bbox 442 1500 1560 1549; baseline -0.007 -7"><span class='ocrx_word' id='word_1_3' title='bbox 442 1507 611 1549; x_wconf 68' lang='lat' dir='ltr'>Pronum,</span> <span class='ocrx_word' id='word_1_4' title='bbox 639 1521 716 1542; x_wconf 76' lang='lat' dir='ltr'>cum</span> <span class='ocrx_word' id='word_1_5' title='bbox 743 1507 898 1546; x_wconf 67' lang='lat' dir='ltr'>labufis,</span> <span class='ocrx_word' id='word_1_6' title='bbox 925 1506 1022 1549; x_wconf 15' lang='lat' dir='ltr'>apud*</span> <span class='ocrx_word' id='word_1_7' title='bbox 1042 1509 1186 1538; x_wconf 60' lang='lat' dir='ltr'>exteros:</span> <span class='ocrx_word' id='word_1_8' title='bbox 1213 1504 1231 1537; x_wconf 80' lang='lat'>3</span> <span class='ocrx_word' id='word_1_9' title='bbox 1258 1503 1307 1536; x_wconf 68' lang='lat' dir='ltr'>nd.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1332 1506 1374 1538; x_wconf 64' lang='lat'>,⁶22</span> <span class='ocrx_word' id='word_1_11' title='bbox 1397 1500 1447 1536; x_wconf 70' lang='lat' dir='ltr'>sk.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1474 1500 1560 1535; x_wconf 75' lang='lat' dir='ltr'>B:c‹·.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
